@@ -1,4 +1,4 @@
-# Predicting model of the steering angle project
+# [Predicting model of the steering angle project](https://vasyl-chepara.medium.com/convolutional-neural-network-model-for-adjusting-the-steering-angle-of-the-car-9bb4ad518e72)
 
 This realization is part of my self-driving car project, and represents implementations of AI algoritms for predicting steering angle of wheels, in
 depending on curvature of the road lines
